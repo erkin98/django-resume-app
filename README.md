@@ -1,1 +1,1 @@
-# django-resume-app
+Simple resume web application
